@@ -1,0 +1,12 @@
+{
+  "name": "select-game",
+  "version": "1.0.0",
+  "description": "Poll site to match game choices between two people",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
